@@ -12,7 +12,7 @@ const Hero = () => {
           </h1>
 
           <a href="#" className="btn bg-papaya_whip text-caf_noir py-3 px-10 mt-5 mx-auto md:mt-10 lg:mx-0 xxl:text-xl" aria-label="shop">
-            Shop this shop
+            Shop this 
           </a>
 
           <div className="mt-52">

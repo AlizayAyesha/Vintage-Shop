@@ -123,7 +123,7 @@ const ProductCategories = () => {
             Explore our curated popular collection product categories featuring high-quality.
           </p>
 
-          <button className="btn bg-butterscotch_light py-3 px-10 mt-5 mx-auto hidden md:block md:mx-0 md:mt-10 lg:py-4 lg:mx-0" aria-label="shop">
+          <button className="btn bg-butterscotch_light text-caf_noir py-3 px-10 mt-5 mx-auto hidden md:block md:mx-0 md:mt-10 lg:py-4 lg:mx-0" aria-label="shop">
             view products
           </button>
         </div>

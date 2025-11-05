@@ -140,7 +140,7 @@ const Header = () => {
                   <div className="h-[1px] w-full my-3 bg-butterscotch_light"></div>
 
                   <div className="flex justify-center items-center gap-2">
-                    <a href="#" className="btn bg-butterscotch_light py-3 px-4" aria-label="checkout">
+                    <a href="#" className="btn bg-butterscotch_light text-caf_noir py-3 px-4" aria-label="checkout">
                       checkout
                     </a>
 

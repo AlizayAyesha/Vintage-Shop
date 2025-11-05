@@ -117,8 +117,7 @@ ion-icon {
  */
 
 .btn {
-  @apply text-white
-  font-bold
+  @apply font-bold
   uppercase
   tracking-widest
   text-sm

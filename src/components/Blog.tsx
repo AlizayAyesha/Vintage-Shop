@@ -22,7 +22,7 @@ const Blog = () => {
               Paragon One Plaza and Sky Garden
             </p>
 
-            <a href="#" className="btn bg-butterscotch_light py-3 px-10 mt-5 cursor-pointer lg:mx-0 lg:py-4" aria-label="read more">
+            <a href="#" className="btn bg-butterscotch_light text-caf_noir py-3 px-10 mt-5 cursor-pointer lg:mx-0 lg:py-4" aria-label="read more">
               Read more
 
               <ArrowForwardIcon sx={{ fontSize: 20, marginLeft: 1 }} />
