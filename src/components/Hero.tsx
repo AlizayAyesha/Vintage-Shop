@@ -11,7 +11,7 @@ const Hero = () => {
             Handmade Fashion & Vintage Pieces
           </h1>
 
-          <a href="#" className="btn bg-caf_noir py-3 px-10 mt-5 mx-auto md:mt-10 lg:mx-0 xxl:text-xl" aria-label="shop">
+          <a href="#" className="btn bg-papaya_whip text-caf_noir py-3 px-10 mt-5 mx-auto md:mt-10 lg:mx-0 xxl:text-xl" aria-label="shop">
             Shop this shop
           </a>
 
