@@ -2,7 +2,7 @@
 
 A **modern and fully responsive eCommerce landing page** for a vintage shop, built using **Next.js**, **Tailwind CSS**, and **TypeScript**. This project showcases a clean UI design, responsive layouts, interactive components, and is ready for deployment.
 
-![Preview](https://via.placeholder.com/800x400?text=Vintage+Shop+Preview)
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/7d65b6a2-b942-41ea-bc9b-893349494c1e" />
 
 ## 🚀 Live Demo
 
