@@ -6,7 +6,7 @@ A **modern and fully responsive eCommerce landing page** for a vintage shop, bui
 
 ## 🚀 Live Demo
 
-🔗 [View Deployed Site](https://vintage-shop-alizayayesha.vercel.app)
+🔗 [View Deployed Site](https://vintage-shop-neon.vercel.app/)
 
 ## 📌 Features
 
