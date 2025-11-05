@@ -1,45 +1,50 @@
-# 🛍️ eCommerce Landing Page
+# 🛍️ Vintage Shop
 
-A **modern and fully responsive eCommerce landing page** built using **Tailwind CSS** and **vanilla JavaScript**. This project demonstrates clean UI design, responsive layout techniques, interactive components, and ends with deployment on **Hostinger**.
+A **modern and fully responsive eCommerce landing page** for a vintage shop, built using **Next.js**, **Tailwind CSS**, and **TypeScript**. This project showcases a clean UI design, responsive layouts, interactive components, and is ready for deployment.
 
-![Preview](https://ik.imagekit.io/codewithsadee/cozynest/Thumbnail-github.png?updatedAt=1750768815569)
+![Preview](https://via.placeholder.com/800x400?text=Vintage+Shop+Preview)
 
 ## 🚀 Live Demo
 
-🔗 [View Deployed Site](https://cozynest.codewithsadee.com)
+🔗 [View Deployed Site](https://vintage-shop-alizayayesha.vercel.app)
 
 ## 📌 Features
 
 - 🌐 Responsive design (mobile, tablet, desktop)
-- 🎨 Built entirely with Tailwind CSS utility classes
+- 🎨 Built with Tailwind CSS and Next.js
 - ⚡ Smooth hover effects and transitions
-- 🧭 Interactive mobile menu with vanilla JavaScript
-- 🛒 Clean, minimal product showcase section
-- 🔥 Advance grid layout
-- 🚀 Custom slider with auto-slide functionality using vanilla JavaScript
-- ☁️ Deployed on Hostinger
+- 🧭 Interactive mobile menu
+- 🛒 Product showcase sections
+- 🔥 Advanced grid layouts
+- 🚀 Custom sliders with auto-slide functionality
+- ☁️ Deployed on Vercel
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
+- **Next.js**
 - **Tailwind CSS**
-- **JavaScript**
-- **Hostinger** (for deployment)
+- **TypeScript**
+- **Vercel** (for deployment)
 
 ## 🧰 Getting Started
 
 1. **Clone the repo:**
 
 ```bash
-git clone git@github.com:codewithsadee/cozynest.git
-cd cozynest
+git clone https://github.com/AlizayAyesha/Vintage-Shop.git
+cd vintage-shop
 ```
 
-2. **Open** `index.html` in your browser
-   No build tools needed – just open and go!
+2. **Install dependencies:**
 
-## 📺 Watch the complete tutorial
+```bash
+npm install
+```
 
-🔗 [YouTube](https://https://youtu.be/Gjjlw3TfLXg)
+3. **Run the development server:**
 
-THANK YOU ❤
+```bash
+npm run dev
+```
+
+4. **Open** `http://localhost:3000` in your browser
